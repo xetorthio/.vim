@@ -1,4 +1,4 @@
 set tabstop=4
 set shiftwidth=4
 set expandtab
-" set cin
+set softtabstop=4
