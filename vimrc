@@ -20,3 +20,5 @@ set showmode "muestra el modo en el que estas abajo
 set visualbell "que no haga sonidos para alertar
 set list listchars=tab:>-,trail:·  "muestra los trailing spaces y tabs visualmente
 set scrolloff=8  "empeza a scrollear cuando estas a 8 lineas del final
+
+filetype indent on
