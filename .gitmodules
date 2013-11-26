@@ -1,0 +1,3 @@
+[submodule "vim/bundle/vim-scala"]
+	path = vim/bundle/vim-scala
+	url = git@github.com:derekwyatt/vim-scala.git

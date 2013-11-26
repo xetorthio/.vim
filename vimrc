@@ -1,3 +1,5 @@
+execute pathogen#infect()
+
 " --------- CONFIGURACIONES DE COLORES ---------
 " le indica a vim que use una paleta de 256 colores
 set t_Co=256
