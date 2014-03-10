@@ -25,6 +25,9 @@ set scrolloff=8  "empeza a scrollear cuando estas a 8 lineas del final
 
 set hlsearch "search highlight
 
+" Press F4 to toggle highlighting on/off, and show current value.
+:noremap <F4> :set hlsearch! hlsearch?<CR>
+
 filetype indent on
 
 au FileType gitcommit set tw=72 "when doing a git commit, wrap long lines in 72 columns
