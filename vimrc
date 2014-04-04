@@ -31,3 +31,5 @@ set hlsearch "search highlight
 filetype indent on
 
 au FileType gitcommit set tw=72 "when doing a git commit, wrap long lines in 72 columns
+
+set backupdir=~/tmp
